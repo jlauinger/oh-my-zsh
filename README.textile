@@ -1,9 +1,3 @@
-h2. Modifications:
-
-* This version introduces the server theme, which is really nice for managing servers via ssh. It displays the server's hostname and current 
-user at all times and switches the color of the username to red for privileged users. Otherwise it's green.
-* z plugin is included by default. Seriously, it's awesome!
-
 !https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png!
 
 @oh-my-zsh@ is an open source, community-driven framework for managing your "Zsh":http://www.zsh.org/ configuration.
@@ -11,6 +5,12 @@ user at all times and switches the color of the username to red for privileged u
 It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout…
 
 bq. "OH MY ZSHELL!"
+
+h2. Modifications:
+
+* This version introduces the server theme, which is really nice for managing servers via ssh. It displays the server's hostname and current
+user at all times and switches the color of the username to red for privileged users. Otherwise it's green.
+* z plugin is included by default. Seriously, it's awesome!
 
 h2. Setup
 
