@@ -1,6 +1,8 @@
 h2. Modifications:
 
-blabla
+* This version introduces the server theme, which is really nice for managing servers via ssh. It displays the server's hostname and current 
+user at all times and switches the color of the username to red for privileged users. Otherwise it's green.
+* z plugin is included by default. Seriously, it's awesome!
 
 !https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png!
 
