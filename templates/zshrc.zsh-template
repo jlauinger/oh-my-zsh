@@ -80,5 +80,5 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 if [[ -d ~/.zsh.d ]]; then
-	source ~/.zsh.d
+	source ~/.zsh.d/*
 fi
