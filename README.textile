@@ -1,3 +1,7 @@
+h2. Modifications:
+
+blabla
+
 !https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png!
 
 @oh-my-zsh@ is an open source, community-driven framework for managing your "Zsh":http://www.zsh.org/ configuration.
